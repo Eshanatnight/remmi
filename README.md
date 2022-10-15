@@ -232,6 +232,11 @@ Now talking about latent factor you might be wondering what is it ?It is a broad
 
 ![](https://cdn-images-1.medium.com/max/800/1*GUw90kG2ltTd2k_iv3Vo0Q.png)
 
+
+### Result
+
+![](./images/loss.png)
+
 ---
 
 ## Building the Environment
