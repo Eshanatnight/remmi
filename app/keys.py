@@ -1,0 +1,1 @@
+api_key : str = "8265db1679663a7ea12ac168da84d2ee8"
